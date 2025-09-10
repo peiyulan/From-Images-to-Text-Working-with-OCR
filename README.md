@@ -14,7 +14,7 @@ The resource covers the following sections to help you learn and start to apply 
 
 We will practice implementing OCR using the following tools:
 
-- out of the box OCR software
+- Out of the box OCR software
 - R and Python OCR modules
 *Instructions for both R and Python are available in this GitHub repository. During the session, you will work in separate groups to implement the module that interests you most.
 
@@ -42,11 +42,7 @@ Alternatively, if you want to download the material to your laptop, you can find
 
 For [Python](https://www.python.org/) users, we will use Google Colab.
 
-To attend the class, simply clink on the banner below and log in via a google account.
-
-You can find all the material that you will need for this class in [this Folder](https://github.com/DCS-training/OCR/tree/main/WorkingWithPython).
-
-If you’d like to download and edit the files or code, please log into Google Colab and select the 'Copy to Drive' option to download and edit.
+To attend the class, simply clink on the banner below and log in via a google account. You can find all the material that you will need for this class in [this Folder](https://github.com/DCS-training/OCR/tree/main/WorkingWithPython). If you’d like to download and edit the files or code, please log into Google Colab and select the 'Copy to Drive' option to download and edit.
 
 ## **License and Authors**
 
