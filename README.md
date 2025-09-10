@@ -17,6 +17,7 @@ We will practice implementing OCR using the following tools:
 - out of the box OCR software
 - R and Python OCR modules
 *Instructions for both R and Python are available in this GitHub repository. During the session, you will work in separate groups to implement the module that interests you most.
+
 ### **What do I need to know?**
 
 This is a beginer-level workshop and does not require any prior programming knowledge or background of text extraction processes.
@@ -29,8 +30,6 @@ This is a beginer-level workshop and does not require any prior programming know
 
 ### Working with R
 
-**Working with R**
-
 For [R](https://www.r-project.org/) users, we will use [R Studio](https://posit.co/).
 
 To attend the class, simply click on the banner below and log in via a Google account to set up in RStudio Online.
@@ -39,7 +38,7 @@ To attend the class, simply click on the banner below and log in via a Google ac
 
 Alternatively, if you want to download the material to your laptop, you can find all materials needed for this class in [this folder](https://github.com/DCS-training/OCR/tree/main/WorkingWithR). Note that you'll need to download the entire repository rather than individual folders.
 
-**Working with Python**
+### **Working with Python**
 
 For [Python](https://www.python.org/) users, we will use Google Colab.
 
@@ -49,7 +48,7 @@ You can find all the material that you will need for this class in [this Folder
 
 If you’d like to download and edit the files or code, please log into Google Colab and select the 'Copy to Drive' option to download and edit.
 
-**License and Authors**
+## **License and Authors**
 
 [License: CC BY-NC 4.0](https://camo.githubusercontent.com/c9f1f67f48977cad1f9c86baf54ee9d1282ff2193e43023585abb39d1be66d77/68747470733a2f2f6c6963656e7365627574746f6e732e6e65742f6c2f62792d6e632f342e302f38307831352e706e67)
 
